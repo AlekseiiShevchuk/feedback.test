@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "classmap": ["app/"],
+    "files": [
+      "app/config.php"
+    ]
+  },
+  "require": {
+    "eventviva/php-image-resize": "^1.6"
+  }
+}
